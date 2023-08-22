@@ -24,19 +24,6 @@ const Why = () => {
           </div>
           <div>
             <h3 className="text-2xl font-bold my-5 leading-relaxed">
-              Unmatched Fleet Diversity
-            </h3>
-            <p>
-              With Lamborghini Rentals Miami, variety is the name of the game.
-              Our exclusive collection is curated not just for the Lamborghini
-              enthusiast but for anyone who craves the synthesis of art,
-              engineering, and speed. From the Aventador's relentless power to
-              the Huracan Spyder's nimble agility, our fleet is a testament to
-              Lamborghini's innovative spirit.
-            </p>
-          </div>
-          <div>
-            <h3 className="text-2xl font-bold my-5 leading-relaxed">
               Transparent All-Inclusive Packages
             </h3>
             <p>
