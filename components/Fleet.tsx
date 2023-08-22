@@ -2,7 +2,7 @@ import React from 'react'
 
 const Fleet = () => {
   return (
-    <section className="mb-20">
+    <section className="my-20" id="fleet">
       <div className="mx-auto max-w-5xl px-8">
         <h2 className="text-4xl font-bold text-center my-10 leading-relaxed">
           Our Exquisite Lamborghini Fleet in Miami Florida

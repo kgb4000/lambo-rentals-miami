@@ -10,7 +10,7 @@ const Reasons = () => {
         <div>
           <div>
             <h3 className="text-2xl font-bold my-5 leading-relaxed">
-              Experience Performance
+              Experience One Of the Most Popular Cars in the World
             </h3>
             <p>
               Lamborghini is synonymous with unparalleled performance. Behind
@@ -34,7 +34,7 @@ const Reasons = () => {
         <div>
           <div>
             <h3 className="text-2xl font-bold my-5 leading-relaxed">
-              Drive in Style
+              Drive in the City of Miami in Style
             </h3>
             <p>
               Miami: A city synonymous with luxury, where the skyline gleams
@@ -51,7 +51,7 @@ const Reasons = () => {
           </div>
           <div>
             <h3 className="text-2xl font-bold my-5 leading-relaxed">
-              Turn Heads
+              Turn Heads: All Eyes Will Be On You
             </h3>
             <p>
               Every Lamborghini is a masterpiece, an object of desire, and a
@@ -68,7 +68,7 @@ const Reasons = () => {
           </div>
           <div>
             <h3 className="text-2xl font-bold my-5 leading-relaxed">
-              Memorable Occasions
+              Create a Memorable Visit to Miami
             </h3>
             <p>
               Life is made of moments; some moments deserve nothing short of
@@ -84,7 +84,7 @@ const Reasons = () => {
             </p>
           </div>
         </div>
-        <Button text="Choose Your Lambo Today!" link="/" />
+        <Button text="Choose Your Lambo Today!" link="#fleet" />
       </div>
     </section>
   )

@@ -1,4 +1,5 @@
 import React from 'react'
+import Button from './Button'
 
 const Why = () => {
   return (
@@ -92,6 +93,7 @@ const Why = () => {
             </p>
           </div>
         </div>
+        <Button text="Choose Your Lambo Today!" link="#fleet" />
       </div>
     </section>
   )

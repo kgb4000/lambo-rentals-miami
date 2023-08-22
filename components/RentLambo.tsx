@@ -8,7 +8,7 @@ const RentLambo = () => {
           Rent a Lamborghini in Miami
         </h2>
         <h3 className="text-2xl font-bold my-10 leading-relaxed">
-          Experience Miami Like Never Before
+          Experience Miami in a High Performance Supercar
         </h3>
         <p className="my-4 text-gray-500">
           Miami's sunlit streets and starry nights call for a ride that

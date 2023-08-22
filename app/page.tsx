@@ -6,6 +6,8 @@ import FAQ from '@/components/FAQ'
 import Reasons from '@/components/Reasons'
 import Why from '@/components/Why'
 import Footer from '@/components/Footer'
+import WhyDrive from '@/components/WhyDrive'
+import LamboComparisons from '@/components/LamboComparisons'
 
 export default function Home() {
   return (
@@ -13,9 +15,11 @@ export default function Home() {
       <main>
         <Hero />
         <Fleet />
+        <LamboComparisons />
         <RentLambo />
         <Reasons />
         <Why />
+        <WhyDrive />
         <FAQ />
       </main>
       <Footer />
