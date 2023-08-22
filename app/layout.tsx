@@ -7,6 +7,9 @@ const inter = Inter({ subsets: ['latin'] })
 export const metadata: Metadata = {
   title: 'Lamborghini Rentals in Miami Florida | Turn Heads',
   description: `Miami's Ultimate Drive: Explore famous Miami streets in the world's most desired car. Renting a Lamborghini is just a click away! Reserve yours Today!`,
+  alternates: {
+    canonical: 'https://lamborghinirentals.miami',
+  },
 }
 
 export default function RootLayout({
