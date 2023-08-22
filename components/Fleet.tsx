@@ -38,6 +38,7 @@ const Fleet = () => {
               craftsmanship, intricate detailing, and state-of-the-art tech
               integrations.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Red</h3>
@@ -48,6 +49,7 @@ const Fleet = () => {
               situation. Coupled with a luxurious interior that offers ample
               space and comfort, every journey becomes an event.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS White</h3>
@@ -57,6 +59,7 @@ const Fleet = () => {
               and elegance. Its dynamic character is underlined by the Torque
               Vectoring System, ensuring maximum driving dynamics and safety.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Grey</h3>
@@ -67,6 +70,7 @@ const Fleet = () => {
               unparalleled driving experience both in the city and on off-road
               adventures.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Blue</h3>
@@ -77,6 +81,7 @@ const Fleet = () => {
               with touch-screen consoles, offers a futuristic driving
               experience.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Red</h3>
@@ -86,6 +91,7 @@ const Fleet = () => {
               Lamborghini. Packed with advanced driver-assistance systems, it
               ensures that safety complements power.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Black</h3>
@@ -97,6 +103,7 @@ const Fleet = () => {
               craftsmanship, intricate detailing, and state-of-the-art tech
               integrations.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Yellow</h3>
@@ -106,6 +113,7 @@ const Fleet = () => {
               steering system ensures agility at low speeds and stability during
               high-speed maneuvers, promising an exhilarating ride.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Orange</h3>
@@ -115,6 +123,7 @@ const Fleet = () => {
               steering system ensures agility at low speeds and stability during
               high-speed maneuvers, promising an exhilarating ride.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Silver</h3>
@@ -124,6 +133,7 @@ const Fleet = () => {
               driver's intentions and adjusts accordingly, promising a ride
               that's both intuitive and thrilling.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS White</h3>
@@ -133,6 +143,7 @@ const Fleet = () => {
               driver's intentions and adjusts accordingly, promising a ride
               that's both intuitive and thrilling.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">
@@ -144,6 +155,7 @@ const Fleet = () => {
               traction control system ensures optimal grip in all conditions,
               making every drive an adventure.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">
@@ -155,6 +167,7 @@ const Fleet = () => {
               traction control system ensures optimal grip in all conditions,
               making every drive an adventure.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">LAMBORGHINI URUS Purple</h3>
@@ -163,6 +176,7 @@ const Fleet = () => {
               steering to the carbon-ceramic brakes, it's designed to offer the
               most exhilarating SUV driving experience.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">
@@ -173,6 +187,7 @@ const Fleet = () => {
               V10 engine and open-top experience promise a journey that touches
               the heart and the sky.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">
@@ -183,6 +198,7 @@ const Fleet = () => {
               elegance. Its convertible design ensures you're always one with
               the elements, making every drive a poetic experience.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">
@@ -203,6 +219,7 @@ const Fleet = () => {
               symbol of elegance and power. The symphony of its engine and the
               allure of its design ensure every journey is memorable.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
           <div className="my-10">
             <h3 className="text-1xl font-bold my-2">
@@ -223,6 +240,7 @@ const Fleet = () => {
               a machine that sets the heart racing. Dive into an experience
               that's pure, raw, and absolutely Lamborghini.
             </p>
+            <p>Price Starting at $1,499.</p>
           </div>
         </div>
       </div>

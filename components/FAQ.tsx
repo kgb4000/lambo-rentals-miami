@@ -9,6 +9,29 @@ const FAQ = () => {
         </h2>
         <div>
           <h3 className="text-2xl font-bold my-5 leading-relaxed">
+            How much does it cost to rent a Lamborghini for a day in Miami?
+          </h3>
+          <p>
+            Renting a Lamborghini in Miami typically ranges from $1,400 to
+            $2,500 per day, depending on the model and the rental package you
+            select. This includes insurance coverage and a specific mileage
+            limit. Extra fees for exceeding the mileage limit, refueling, and
+            other special requests may apply.
+          </p>
+        </div>
+        <div>
+          <h3 className="text-2xl font-bold my-5 leading-relaxed">
+            How much does it cost to rent Lamborghini Huracan?
+          </h3>
+          <p>
+            Renting a Lamborghini Huracan in Miami typically costs between
+            $1,400 to $1,800 per day. The price varies depending on factors like
+            rental duration, included mileage, and any additional services you
+            opt for.
+          </p>
+        </div>
+        <div>
+          <h3 className="text-2xl font-bold my-5 leading-relaxed">
             Do I need Insurance to rent a Lamborghini?
           </h3>
           <p>
@@ -120,16 +143,13 @@ const FAQ = () => {
         </div>
         <div>
           <h3 className="text-2xl font-bold my-5 leading-relaxed">
-            How many miles do I get?
+            How Many Miles Do I get to Drive Around Miami?
           </h3>
           <p>
-            Miles are dependent on the rental vehicle obtained. Exotics such as
-            Ferrari, Lamborghini, Aston Martin, and Rolls Royce are restricted
-            to 100 miles daily. If you surpass those miles, you will be charged
-            an additional $4.00 per mile. For all other vehicles, we provide 150
-            miles per day, and we charge $3.00 per mile for overages. These fees
-            are applied only when vehicles are returned and discounted from the
-            deposit.
+            Your Lamborghini rental is restricted to 100 miles daily. If you
+            surpass those miles, you will be charged an additional $4.00 per
+            mile. These fees are applied only when the vehicle returned and
+            discounted from the deposit.
           </p>
         </div>
         <div>
@@ -156,6 +176,28 @@ const FAQ = () => {
             hours. For deliveries outside Miami/ Ft. Lauderdale areas, please
             contact us. The fee will depend on the distance and include a
             flatbed curbside/front door delivery option.
+          </p>
+        </div>
+        <div>
+          <h3 className="text-2xl font-bold my-5 leading-relaxed">
+            What Time Can You Deliver My Lamborghini?
+          </h3>
+          <p>
+            We are a 24hr service, which makes it easy for us to accommodate you
+            on your ever changing schedule and those last minute trips. We can
+            deliver or pick up your rental at no cost within our allowed
+            locations within the hours of 10am (EST) – 8pm (EST). For deliveries
+            or pick ups outside our normal operating hours we charge a $50-$250
+            surcharge that varies on location and distance.
+          </p>
+        </div>
+        <div>
+          <h3 className="text-2xl font-bold my-5 leading-relaxed">
+            How Long Does it take To Deliver My Lamborghini?
+          </h3>
+          <p>
+            We advise our clients to allow us a 1 and a 1/2 hour window to
+            deliver your Lamborghini.
           </p>
         </div>
       </div>
